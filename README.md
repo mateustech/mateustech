@@ -10,7 +10,7 @@
 ### Technology I work on
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://e7.pngegg.com/pngimages/450/470/png-clipart-node-js-angularjs-react-javascript-npm-node-js-angle-text-thumbnail.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxbeaTbYbEecgUq37CXCmUaV0dp0bQZnlb8w&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
 <code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
