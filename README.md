@@ -20,7 +20,7 @@
 <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img height="30" src="https://miro.medium.com/max/400/0*KhW-3AFJ4qYeURtJ.jpg"></code>
 
-<code><img height="30" src="https://img1.gratispng.com/20180804/aaz/kisspng-postgresql-object-relational-database-oracle-datab-portfolio-whitebolt-whitebolt-5b65f8213f29d6.5042016815334093132587.jpg"></code>
+<code><img height="30" src="https://www.limasoftware.com.br/img/postgres.jpg"></code>
 <code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
