@@ -10,7 +10,7 @@
 ### Technology I work on
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
 <code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
 <code><img height="30" src="https://img2.gratispng.com/20180716/ifs/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6d53234.5616833615317498308733.jpg"></code>
