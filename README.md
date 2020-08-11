@@ -13,9 +13,8 @@
 <code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
 <code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
-<code><img height="30" src="https://res.cloudinary.com/coodesh/image/upload/v1556887499/coodesh/trails/nodejs-512.png"></code>
+<code><img height="30" src="https://img1.gratispng.com/20180716/ohk/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6a88d27.2128590215317498306904.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" ></code>
 <code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
 <code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/400/0*KhW-3AFJ4qYeURtJ.jpg"></code>
