@@ -24,13 +24,12 @@
 <code><img height="30" src="https://lh3.googleusercontent.com/proxy/SES1UVgVDibkkgAj9qkhBe_kj8mGDz6VHBMv_FA_35lZV4CsJfxG3AsA-PSFX0nLNHDrtuCdm8zS5l9Q669O7Oulzvikg1Rdkb4Aokg76-cf1_NAv_Yl_YJDcqYrHjzBA5VG6hk"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/small/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"></code>
 
-<code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
-
 <code><img height="30" src="https://www.limasoftware.com.br/img/postgres.jpg"></code>
 <code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
 ### My participation on github
 ![Mateus Costa github stats](https://github-readme-stats.vercel.app/api?username=mateustech)
