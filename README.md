@@ -10,14 +10,14 @@
 ### Technology I work on
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
-<code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
-
 <code><img height="30" src="https://e7.pngegg.com/pngimages/450/470/png-clipart-node-js-angularjs-react-javascript-npm-node-js-angle-text-thumbnail.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
 <code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/400/0*KhW-3AFJ4qYeURtJ.jpg"></code>
+
+<code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
+<code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
 <code><img height="30" src="https://www.limasoftware.com.br/img/postgres.jpg"></code>
 <code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67KYY-A--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/56177/3a0504e3-1139-4110-b903-08949636010a.jpg"></code>
