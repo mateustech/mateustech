@@ -13,7 +13,7 @@
 <code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
 <code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
-<code><img height="30" src="https://img2.gratispng.com/20180716/ifs/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6d53234.5616833615317498308733.jpg"></code>
+<code><img height="30" src="https://e7.pngegg.com/pngimages/450/470/png-clipart-node-js-angularjs-react-javascript-npm-node-js-angle-text-thumbnail.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
 <code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
