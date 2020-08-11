@@ -16,8 +16,8 @@
 <code><img height="30" src="https://img2.gratispng.com/20180716/ifs/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6d53234.5616833615317498308733.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text.png"></code>
+<code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
+
 <code><img height="30" src="https://miro.medium.com/max/400/0*KhW-3AFJ4qYeURtJ.jpg"></code>
 
 <code><img height="30" src="https://www.limasoftware.com.br/img/postgres.jpg"></code>
