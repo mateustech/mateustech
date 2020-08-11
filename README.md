@@ -1,7 +1,7 @@
 # Welcome to my repositories
 
 
->Ex-Student of Systems Analysis and Development, Ex-near, Passionate about automating routines using programming, I am a fullstack javascript Developer, currently >I am studying Information Technology at UFERSA.
+>Ex-Student of Systems Analysis and Development, Ex-near, Passionate about automating routines using programming, I am a fullstack javascript Developer, currently I am studying Information Technology at UFERSA.
 >
 >I have approximately 3 years of experience in maintenance and development of Web / Mobile systems, 3 years and 11 months as a commercial management system >administrator and my first "hello world" was approximately 5 years ago with Python <3.
 >
