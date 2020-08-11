@@ -1,13 +1,12 @@
 # Welcome to my repositories
 
 
->Ex-Student of Systems Analysis and Development, Ex-near, Passionate about automating routines using programming, I am a fullstack javascript Developer, currently >I am studying Information Technology at UFERSA and will be a future millionaire.
+>Ex-Student of Systems Analysis and Development, Ex-near, Passionate about automating routines using programming, I am a fullstack javascript Developer, currently >I am studying Information Technology at UFERSA.
+>
 >I have approximately 3 years of experience in maintenance and development of Web / Mobile systems, 3 years and 11 months as a commercial management system >administrator and my first "hello world" was approximately 5 years ago with Python <3.
+>
 >I mainly use the technologies: Javascript, React.JS, Python and Node.JS and I always try to practice Scrum.. 
 >
-> I have dedicated myself to developing with the JavaScript language and its tools and I have been strengthening my knowledge with Node, Express, Adonis.js, as >well > as frontend tools like Vue and React to make web applications more interactive
-> 
-> In my developed projects, I have complete solutions such as Progressive Web App (PWA), Sites, Web Systems, Landing Page, Single Page Application (SPA).
 
 ### Technology I work on
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
