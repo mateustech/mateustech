@@ -12,7 +12,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://i7.pngguru.com/preview/247/558/407/node-js-javascript-express-js-npm-react-github.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://img2.gratispng.com/20180503/pgq/kisspng-angularjs-data-binding-web-application-angular-5aeada2dc26d59.2056113015253407177964.jpg"></code>
+<code><img height="30" src="https://img2.gratispng.com/20180828/yge/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a160141ef6.2288466515354842560824.jpg"></code>
+<code><img height="30" src="https://www.w3schools.com/whatis/img_ajax.jpg"></code>
 <code><img height="30" src="https://www.excelsiortechnologies.com/img/about/node-js.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/400/0*KhW-3AFJ4qYeURtJ.jpg"></code>
 
