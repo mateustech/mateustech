@@ -35,6 +35,6 @@
 ![Mateus Costa github stats](https://github-readme-stats.vercel.app/api?username=mateustech)
 
 <a href="https://github.com/mateustech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustech&theme=synthwave&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustech&theme=synthwave&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustech&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustech&layout=compact" />
 </a>
