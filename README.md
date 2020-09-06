@@ -32,7 +32,6 @@
 <code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
 ### My participation on github
-![Mateus Costa github stats](https://github-readme-stats.vercel.app/api?username=mateustech)
 
 <a href="https://github.com/mateustech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustech&show_icons=true" />
