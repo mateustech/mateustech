@@ -31,8 +31,7 @@
 
 <code><img height="30" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png"></code>
 
-#### Access my personal website [here!][portfolio]💻
-[portfolio]:  "aqui"
+#### Let's connect?
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196//)
 
