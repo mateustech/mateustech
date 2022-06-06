@@ -5,7 +5,7 @@
 
 Well, I have a lot of difficulty describing myself in a linear way, so I'll list some isolated points about myself below.
 
- 👨‍🎓
+👨‍🎓
 I'm 22 years old and I've been in the IT field since 2017, developing and maintaining IT products using the most diverse technologies. (I will detail below)
 
 👨‍💻💙
