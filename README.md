@@ -1,12 +1,39 @@
-# Welcome to my repositories
+# Hi, welcome to my profile!
 
 
->Ex-Student of Systems Analysis and Development, Ex-near, Passionate about automating routines using programming, I am a fullstack javascript Developer, currently I am studying Information Technology at UFERSA.
->
->I have approximately 3 years of experience in maintenance and development of Web / Mobile systems, 3 years and 11 months as a commercial management system administrator and my first "hello world" was approximately 5 years ago with Python <3.
->
->I mainly use the technologies: Javascript, React.JS, Python and Node.JS and I always try to practice Scrum.. 
->
+
+
+Well, I have a lot of difficulty describing myself in a linear way, so I'll list some isolated points about myself below.
+
+ 👨‍🎓
+I'm 22 years old and I've been in the IT field since 2017, developing and maintaining IT products using the most diverse technologies. (I will detail below)
+
+👨‍💻💙
+- I like to relate with clients/people and not only with PM/PO in understanding demands.
+- I really enjoy code review, refactoring and pair programming practices, it is currently my second biggest source of learning/improvement/exchange of knowledge.
+- I am very interested in discussions about Testing and Software Architecture.
+
+ 👷‍♂️
+During the last few years in companies, I have been working on integration solutions, test automation, monolithic APIs and micro-services, design systems, and front end web applications.
+
+In parallel, I have been working on a product in the niche of managing external teams since 2019 as Founder and Dev Full Cycle.
+
+🎯
+My career goals are to keep improving my technical skills, teaching, helping my partners and having fun working and building a path to some leadership role.
+
+🛠
+Technologies that I have experiences.(javascript/typescript)
+- Backend
+NodeJS, AdonisJS, NestJS, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB.
+
+- Frontend
+React, NextJS, TailwindCSS, ContextAPI, Hooks, Storybook, Jest.
+
+- Practices/Architectures/Standards/Services
+Gitflow, Scrum, Squads, Mobile-First, Serverless, UseCase, Cognito.
+
+
+Thanks for coming this here, let's talk!🤜🤛
 
 ### Technology I work on
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
