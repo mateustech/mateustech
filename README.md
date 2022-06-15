@@ -36,10 +36,6 @@ Gitflow, Scrum, Squads, Mobile-First, Serverless, UseCase, Cognito.
 Thanks for coming this here, let's talk!🤜🤛
 
 ### Technology I work on
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=mateustech" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mateustech" height="150" alt="languages graph"  />
-</div>
 
 ###
 <div align="left">
@@ -72,10 +68,3 @@ Thanks for coming this here, let's talk!🤜🤛
 #### Let's connect?
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196//)
-
-### My participation on github
-
-<a href="https://github.com/mateustech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustech&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustech&layout=compact" />
-</a>
