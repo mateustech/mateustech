@@ -1,41 +1,23 @@
-# Hi, welcome to my profile!
+# Engenheiro de Software e Tech Lead na @Base 🖤
 
+👷‍♂️ Sou Mateus Fernandes, tenho +6 de experiência na área de TI.
+Meu dia a dia como Tech Lead se resume em: discovery, definições e design de arquitetura, planejamento, gestão de um excelente time   e desenvolvimento das aplicações.
 
+Possuo forte experiência em sistemas/plataformas web. (produtos privados)
+ex: Portal de classificados, sistemas para saúde, marketplaces, integrações com APIs.
 
+Apaixonado por conversar com pessoas de Business e passar horas "viajando" em funcionalidades para transformá-las em POC/MVP minutos depois.
 
-Well, I have a lot of difficulty describing myself in a linear way, so I'll list some isolated points about myself below.
+Entusiasta de Arquitetura Serverless e DevSecOps.
 
-👨‍🎓
-I'm 22 years old and I've been in the IT field since 2017, developing and maintaining IT products using the most diverse technologies. (I will detail below)
-
-👨‍💻💙
-- I like to relate with clients/people and not only with PM/PO in understanding demands.
-- I really enjoy code review, refactoring and pair programming practices, it is currently my second biggest source of learning/improvement/exchange of knowledge.
-- I am very interested in discussions about Testing and Software Architecture.
-
- 👷‍♂️
-During the last few years in companies, I have been working on integration solutions, test automation, monolithic APIs and micro-services, design systems, and front end web applications.
-
-In parallel, I have been working on a product in the niche of managing external teams since 2019 as Founder and Dev Full Cycle.
-
-🎯
-My career goals are to keep improving my technical skills, teaching, helping my partners and having fun working and building a path to some leadership role.
 
 🛠
-Technologies that I have experiences.(javascript/typescript)
-- Backend
-NodeJS, AdonisJS, NestJS, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB.
+🛠 Tecnologias que tenho vivências.
+- Backend: NodeJS, AdonisJS, NestJS, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB, DynamoDB.
 
-- Frontend
-React, NextJS, TailwindCSS, ContextAPI, Hooks, Storybook, Jest.
+- Frontend: React, NextJS, TailwindCSS, ContextAPI, Hooks, Storybook, Jest.
 
-- Practices/Architectures/Standards/Services
-Gitflow, Scrum, Squads, Mobile-First, Serverless, UseCase, Cognito.
-
-
-Thanks for coming this here, let's talk!🤜🤛
-
-### Technology I work on
+- Outros: Gitflow, Scrum, Mobile-First, Serverless, UseCase, Cognito, Criptografia.
 
 ###
 <div align="left">
@@ -64,7 +46,5 @@ Thanks for coming this here, let's talk!🤜🤛
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
 </div>
 
-###
-#### Let's connect?
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196//)
