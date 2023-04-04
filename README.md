@@ -1,50 +1,33 @@
 # Engenheiro de Software e Tech Lead na @Base 🖤
 
-👷‍♂️ Sou Mateus Fernandes, tenho +6 de experiência na área de TI.
-Meu dia a dia como Tech Lead se resume em: discovery, definições e design de arquitetura, planejamento, gestão de um excelente time   e desenvolvimento das aplicações.
+Meu dia a dia como Tech Lead se resume em: Discovery, Definições e Design de Arquitetura e o desenvolvimento das aplicações.
 
-Possuo forte experiência em sistemas/plataformas web. (produtos privados)
-ex: Portal de classificados, sistemas para saúde, marketplaces, integrações com APIs.
+Possuo forte experiência em aplicações web, tendo atuado em Portais, Health Systems, ERP, CRM, CMS e etc...
 
-Apaixonado por conversar com pessoas de Business e passar horas "viajando" em funcionalidades para transformá-las em POC/MVP minutos depois.
+Sou apaixonado por conversar com pessoas de Business e passar horas "viajando" em funcionalidades para transformá-las em POC/MVP minutos depois.
 
-Entusiasta de Arquitetura Serverless e DevSecOps.
+Sou entusiasta de Arquitetura Serverless e DevSecOps.
+
+Prazer, sou Mateus Fernandes,
 
 
-🛠
-🛠 Tecnologias que tenho vivências.
-- Backend: NodeJS, AdonisJS, NestJS, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB, DynamoDB.
+## Hard Skills
 
-- Frontend: React, NextJS, TailwindCSS, ContextAPI, Hooks, Storybook, Jest.
+### Backend
+NodeJS, AdonisJS, NestJS, Prisma, TypeORM, Passport.
 
-- Outros: Gitflow, Scrum, Mobile-First, Serverless, UseCase, Cognito, Criptografia.
+### DBs
+PostgreSQL, MySQL, MongoDB, DynamoDB, Redis.
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" width="52" alt="adonisjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-</div>
+### Frontend
+ReactJS, NextJS, TailwindCSS, ContextAPI, Hooks, Storybook, AtomicDesign.
+
+### Outros
+Jest, Gitflow, Scrum, Mobile-First, Serverless, UseCase, Criptografia, Desenvolvimento Seguro, AWS, Azure, HL7/FHIR, Cognito (Auth), CloudWatch, ApiGateway, S3, Lambda.
+
+## Soft skills
+
+Possuo boas habilidades de comunicação e capacidade de motivar a equipe a alcançar metas. Tenho experiência em planejamento de projetos complexos, além de habilidades para resolver problemas técnicos em cenários complexos. Trabalho bem em equipe, tenho conhecimento em metodologias ágeis e estou sempre disposto a aprender e melhorar minhas habilidades.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196//)
